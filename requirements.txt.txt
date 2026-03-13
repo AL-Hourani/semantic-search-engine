@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+jupyter
+sentence-transformers  # optional if using embeddings library
